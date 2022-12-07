@@ -10,4 +10,4 @@
 
 **Phone:** +995 591 023 629
 **E-Mail:** belyakov.nkt@gmail.com
-[GitHub]https://github.com/NikBel523
+[GitHub](https://github.com/NikBel523)
