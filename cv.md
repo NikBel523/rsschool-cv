@@ -1,8 +1,8 @@
-###### Nikita Beliakov
+# Nikita Beliakov
 
 ---
 
-#### Junior Front End Developer
+## Junior Front End Developer
 
 ---
 
